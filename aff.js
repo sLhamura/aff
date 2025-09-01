@@ -18,8 +18,8 @@
     "#boldsign": "https://boldsign.com?via=danny",
     "#aiproductshot": "https://aiproductshot.com?via=danny",
     "#wpsoffice":"https://go.wps.com/a8w6hRJJA4T6?fpr=j9ecoi",
-    "#foodshot": "https://foodshot.ai/?via=danny"
-    // add more here...
+    "#foodshot": "https://foodshot.ai/?via=danny",
+    "#chaizcom":"https://lnk.do/fgJ7fPn"
   };
 
   function checkHash() {
