@@ -17,7 +17,7 @@
     "#omakase": "https://www.omakase.ai/?via=danny",
     "#boldsign": "https://boldsign.com?via=danny",
     "#aiproductshot": "https://aiproductshot.com?via=danny",
-    "#wpsoffice":"https://go.wps.com/a8w6hRJJA4T6?fpr=j9ecoi",
+    "#wpsoffice":"https://checkout.wps.com/checkout/728/1?entry=web_buy_page&platform=web&lang=en-US&irclickid=S3cSwyUFKxycUY80Q-Spo2T4UkpzcQRXDUgwWk0&MediaId=1234031&SharedId=r01ppK&utm_source=affiliate&utm_medium=firstpromoter&utm_campaign=31092&campaign_id=31092&fpr=j9ecoi",
     "#foodshot": "https://foodshot.ai/?via=danny",
     "#chaizcom":"https://lnk.do/fgJ7fPn"
   };
